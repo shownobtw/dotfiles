@@ -6,7 +6,7 @@
 
 - 🔥**OS:** [ArchLinux](https://archlinux.org/)
 - 🤖**Wm:** [bspwm](https://github.com/baskerville/bspwm)
-- 🐈**Terminal:** [alacritty](https://github.com/alacritty/alacritty)
+- ⚡**Terminal:** [alacritty](https://github.com/alacritty/alacritty)
 - ☕**Shell:** [zsh](https://www.zsh.org/)
 - 📝**Editor:** [neovim](https://github.com/neovim/neovim)
 - 🌊**Browser:** [firefox](https://www.mozilla.org/en-US/firefox)
