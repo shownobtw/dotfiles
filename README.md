@@ -1,7 +1,7 @@
 <h2 align="left"> My Personal Arch Rice 🍚 </h2>
 
 ## <samp>🌸 INFORMATION </samp>
-<img src="./Screenshots/Screenshot_2024-06-20_22-32-37.webp" alt="Rice Showcase" align="right" width="500px">
+<img src="./Screenshots/Screenshot_2024-06-20_22-34-55.webp" alt="Rice Showcase" align="right" width="500px">
 <p>Hey, I'm glad to see you around here, here's my humble dotfiles. </p>
 
 - 🔥**OS:** [ArchLinux](https://archlinux.org/)
