@@ -1,0 +1,33 @@
+# (Rose-Pine Moon) Color scheme for showno Rice
+
+# Default colors
+[colors.primary]
+background = "#232136"
+foreground = "#e0def4"
+
+# Cursor colors
+[colors.cursor]
+cursor = "#c3a5e6"
+text = "#232136"
+
+# Normal colors
+[colors.normal]
+black = "#393552"
+blue = "#34738e"
+cyan = "#eabbb9"
+green = "#9bced7"
+magenta = "#c3a5e6"
+red = "#ea6f91"
+white = "#faebd7"
+yellow = "#f1ca93"
+
+# Bright colors
+[colors.bright]
+black = "#6e6a86"
+blue = "#34738e"
+cyan = "#ebbcba"
+green = "#9bced7"
+magenta = "#c3a5e6"
+red = "#ea6f91"
+white = "#e0def4"
+yellow = "#f1ca93"
