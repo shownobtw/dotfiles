@@ -1,0 +1,38 @@
+Terminal,OpenApps --floating,terminal
+Web Browser,OpenApps --browser,internet-web-browser
+File Manager,OpenApps --filemanager,org.xfce.thunar
+^sep()
+
+Themes,^checkout(rices),colors
+Favorites,^checkout(favorites),starred
+^sep()
+
+Widgets,^checkout(wg),kmenuedit
+BSPWM,^checkout(wm),gnome-windows
+Exit,^checkout(exit),system-shutdown
+
+^tag(rices)
+showno,echo showno > ~/.config/bspwm/.rice ; bspc wm -r,colors
+
+
+^tag(favorites)
+Editor,OpenApps --editor,standard-notes
+Neovim,OpenApps --nvim,nvim
+Firefox,OpenApps --browser,firefox
+Retroarch,retroarch,retroarch
+
+^tag(wg)
+User Card,OpenApps --usercard,system-users
+Music Player,OpenApps --player,musique
+Power Menu,OpenApps --powermenu,changes-allow
+Calendar,OpenApps --calendar,office-calendar
+
+^tag(wm)
+Keybinds,OpenApps --KeyHelp,preferences-desktop-keyboard-shortcuts
+Restart WM,bspc wm -r,system-reboot
+Logout,bspc quit,system-log-out
+
+^tag(exit)
+Block computer,physlock -d,system-lock-screen
+Reboot,systemctl reboot,system-reboot
+Shutdown,systemctl poweroff,system-shutdown
