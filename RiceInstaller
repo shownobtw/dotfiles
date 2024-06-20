@@ -39,7 +39,7 @@ logo () {
 	       &&&////   &&
 	          &&//@@@**
 	            ..***
-    z0mbi3 Dotfiles\n\n"
+    Showno Dotfiles inspired in gh0stzk\n\n"
     printf ' %s [%s%s %s%s %s]%s\n\n' "${CRE}" "${CNC}" "${CYE}" "${text}" "${CNC}" "${CRE}" "${CNC}"
 }
 
