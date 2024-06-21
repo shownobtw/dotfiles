@@ -39,7 +39,7 @@ chmod +x RiceInstaller
 ## <samp>❕NOTE</samp>
  <p>This configuration is based on my system, the same may not work for you, first of all see if you have the necessary dependencies.</p>
 
- ## <samp> CREDITS /samp>
+ ## <samp> CREDITS </samp>
 
 `🌠 Inspired from ` [`gh0stzk`](https://github.com/gh0stzk/dotfiles)
 
